@@ -6,7 +6,7 @@ Extension name: GitHub Copilot
 You need to give Authorization to your GitHub Account,allow access to VS Code.
 
 ## Create an account in OpenWeatherMap
-[Official Website of OpenWeatherMap](https://openweathermap.org/)
+Create a Free Account in the [Official Website of OpenWeatherMap](https://openweathermap.org/)
 
 Under your profile section open Tab that says ***My API Keys***. In your code replace ***api_key*** with your API key.
 
