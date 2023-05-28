@@ -7,7 +7,8 @@ You need to give Authorization to your GitHub Account,allow access to VS Code.
 
 ## Create an account in OpenWeatherMap
 [Official Website of OpenWeatherMap](https://openweathermap.org/)
-Under your profile section open Tab that says ***My API Keys***. In your code replace "api_key" with your API key.
+
+Under your profile section open Tab that says ***My API Keys***. In your code replace ***api_key*** with your API key.
 
 For Queries related to API call 
 Refer to [How to make an API Call](https://openweathermap.org/current)
