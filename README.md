@@ -13,12 +13,13 @@ Under your profile section open Tab that says ***My API Keys***. In your code re
 For Queries related to API call 
 Refer to [How to make an API Call](https://openweathermap.org/current)
 
-For Complete Documentation, Please refer to : 
-[Weather Forecasting Tool.docx](https://github.com/Altaf-10/Weather-Forecasting-Tool-Using-GitHub-Copilot-/files/11584903/Weather.Forecasting.Tool.docx)
-
 ### NOTE : 
 To make the Output Prettier in Command-line I used ANSI Color_codes and Style_codes.
 
 Remember to install the requests library (pip install requests) before running the script.
 
 Remember to replace with your API Key in the script.
+
+## For Complete Documentation, 
+Please refer to : 
+[Weather Forecasting Tool.docx](https://github.com/Altaf-10/Weather-Forecasting-Tool-Using-GitHub-Copilot-/files/11584903/Weather.Forecasting.Tool.docx)
