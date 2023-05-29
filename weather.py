@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 # API key
-api_key = "7f3b7f1769dfa4fee25892b6ed9220bd" # Replace with your API key
+api_key = "Your_API_Key" # Replace with your API key
 
 # base_url variable to store url
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
