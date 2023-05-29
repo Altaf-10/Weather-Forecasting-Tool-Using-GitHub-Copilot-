@@ -3,6 +3,7 @@ Creating a command-line tool that accepts a city's name and returns the current 
 
 ## Install Github Copilot Extension in VS Code
 Extension name: GitHub Copilot
+
 You need to give Authorization to your GitHub Account,allow access to VS Code.
 
 ## Create an account in OpenWeatherMap
